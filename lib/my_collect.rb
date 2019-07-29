@@ -10,6 +10,7 @@ def my_collect(collection)
   end
 end
 return new_array
+end
 return lang.upcase
 end
 
